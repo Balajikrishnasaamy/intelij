@@ -1,0 +1,67 @@
+<keymap version="1" name="Mark Shorcut KeyMapping" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+  </action>
+  <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ChangesView.ShelveSilently" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id="Diagram.DeselectAll" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="MavenHelper.QuickRunMavenGoal" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="RecentFiles" />
+  <action id="RecentLocations" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Unscramble">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta alt h" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
+</keymap>
