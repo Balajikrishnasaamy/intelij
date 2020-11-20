@@ -1,0 +1,16 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+  </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" useJBChromeExtension="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern icon="important" case-sensitive="true" pattern="\bissue\b.*" />
+    <pattern icon="question" pattern="\badd\b.*" />
+    <filter name="All" />
+  </component>
+</application>
