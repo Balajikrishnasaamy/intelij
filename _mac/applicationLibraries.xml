@@ -22,91 +22,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="org.junit.jupiter:junit-jupiter:5.5.2" type="repository">
-      <properties maven-id="org.junit.jupiter:junit-jupiter:5.5.2" />
-      <CLASSES>
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-5.5.2.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-api-5.5.2.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/apiguardian-api-1.1.0.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/opentest4j-1.2.0.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-platform-commons-1.5.2.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-params-5.5.2.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-engine-5.5.2.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-platform-engine-1.5.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-5.5.2-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-api-5.5.2-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/apiguardian-api-1.1.0-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/opentest4j-1.2.0-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-platform-commons-1.5.2-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-params-5.5.2-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-engine-5.5.2-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-platform-engine-1.5.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES />
-    </library>
-    <library name="org.mockito:junit-jupiter:2.20.0" type="repository">
-      <properties maven-id="org.mockito:junit-jupiter:2.20.0" />
-      <CLASSES>
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-2.20.0.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/mockito-core-2.20.0.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/byte-buddy-1.8.13.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/byte-buddy-agent-1.8.13.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/objenesis-2.6.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-api-5.1.0.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/apiguardian-api-1.0.0.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/opentest4j-1.0.0.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-platform-commons-1.1.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-2.20.0-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/mockito-core-2.20.0-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/byte-buddy-1.8.13-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/byte-buddy-agent-1.8.13-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/objenesis-2.6-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-jupiter-api-5.1.0-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/apiguardian-api-1.0.0-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/opentest4j-1.0.0-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/Development/worker/lib/junit-platform-commons-1.1.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES />
-    </library>
-    <library name="Python 2.7 (lean-python) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/IdeaProjects/lean-python/venv/lib/python2.7" />
-        <root url="file://$USER_HOME$/IdeaProjects/lean-python/venv/lib/python2.7/lib-dynload" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/IdeaProjects/lean-python/venv/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-492477068" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/IdeaProjects/lean-python/venv/lib/python2.7" />
-        <root url="file://$USER_HOME$/IdeaProjects/lean-python/venv/lib/python2.7/lib-dynload" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/IdeaProjects/lean-python/venv/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-492477068" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 2.7 interpreter library">
       <CLASSES />
       <JAVADOC />
@@ -119,17 +34,6 @@
       <JAVADOC />
       <SOURCES />
       <jarDirectory url="file://$USER_HOME$/FSM/Build/AdventNet/Sas/lib" recursive="false" />
-    </library>
-    <library name="SDK lib">
-      <CLASSES>
-        <root url="file://$USER_HOME$/FSM/sdk/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/FSM/sdk/lib" />
-      </SOURCES>
-      <jarDirectory url="file://$USER_HOME$/FSM/sdk/lib" recursive="false" />
-      <jarDirectory url="file://$USER_HOME$/FSM/sdk/lib" recursive="false" type="SOURCES" />
     </library>
     <library name="Tomcat lib">
       <CLASSES>
