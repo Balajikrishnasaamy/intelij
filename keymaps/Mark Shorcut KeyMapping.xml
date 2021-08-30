@@ -7,13 +7,28 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ChangesView.ShelveSilently" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
   <action id="Diagram.DeselectAll" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta g" />
@@ -60,6 +75,10 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta alt h" />
+  </action>
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
+    <mouse-shortcut keystroke="meta button143" />
   </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
