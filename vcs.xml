@@ -118,6 +118,14 @@
           <option name="url" value="https://git.csez.zohocorpin.com/FSM/worker" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.csez.zohocorpin.com/qntrlworker" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.csez.zohocorpin.com/qntrlworker/qntrlworker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Development" />
