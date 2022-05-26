@@ -16,7 +16,6 @@
       <map>
         <entry key="AwsSettingsPanel" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="hg" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
     </option>
