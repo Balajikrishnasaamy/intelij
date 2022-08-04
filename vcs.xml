@@ -112,7 +112,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://cmsuite.csez.zohocorpin.com" />
-          <option name="userName" value="markandayan.p" />
+          <option name="userName" value="balaji.rk" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.csez.zohocorpin.com/FSM/worker" />
@@ -124,6 +124,22 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.csez.zohocorpin.com/qntrlworker/qntrlworker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://balaji.rk@cmsuite.csez.zohocorpin.com/zoho//blueprintplus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://balaji.rk@cmsuite.csez.zohocorpin.com/zoho/blueprintplus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://cmsuite.csez.zohocorpin.com/blueprintplus/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://cmsuite.csez.zohocorpin.com/zoho/blueprintplus/" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
